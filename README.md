@@ -21,6 +21,7 @@ Solve 300+ problems before graduation.
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [3838-weighted-word-mapping](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
@@ -30,4 +31,12 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3838-weighted-word-mapping) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
