@@ -55,4 +55,8 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
