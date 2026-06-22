@@ -24,6 +24,7 @@ Solve 300+ problems before graduation.
 | [0001-two-sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
@@ -46,6 +47,7 @@ Solve 300+ problems before graduation.
 | [0001-two-sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Solve 300+ problems before graduation.
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
