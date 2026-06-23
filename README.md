@@ -23,6 +23,7 @@ Solve 300+ problems before graduation.
 | ------- |
 | [0001-two-sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
@@ -60,6 +61,7 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
 |  |
 | ------- |
@@ -87,4 +89,8 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3699-number-of-zigzag-arrays-i) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
