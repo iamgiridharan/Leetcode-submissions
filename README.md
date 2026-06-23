@@ -73,6 +73,7 @@ Solve 300+ problems before graduation.
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -82,4 +83,8 @@ Solve 300+ problems before graduation.
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
