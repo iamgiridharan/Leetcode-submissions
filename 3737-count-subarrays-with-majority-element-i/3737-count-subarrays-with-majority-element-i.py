@@ -7,6 +7,8 @@ class Solution:
             for j in range(i,n):
                 if nums[j]==target:
                     targetc+=1
-                if targetc>(j-i+1)//2:
-                    res+=1
+                else:
+                    targetc-=1
+                if targetc>0:
+                    res+=1    
         return res            
