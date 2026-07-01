@@ -31,6 +31,7 @@ Solve 300+ problems before graduation.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3838-weighted-word-mapping) |
@@ -107,6 +108,7 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,4 +128,20 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
