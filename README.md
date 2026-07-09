@@ -44,6 +44,7 @@ Solve 300+ problems before graduation.
 | [0013-roman-to-integer](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -81,6 +82,7 @@ Solve 300+ problems before graduation.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1163-last-substring-in-lexicographical-order) |
@@ -162,4 +164,8 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
