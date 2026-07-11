@@ -29,6 +29,7 @@ Solve 300+ problems before graduation.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0705-design-hashset) |
 | [1732-find-the-highest-altitude](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -66,6 +67,7 @@ Solve 300+ problems before graduation.
 | [0049-group-anagrams](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0705-design-hashset) |
 | [1189-maximum-number-of-balloons](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -168,4 +170,16 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
