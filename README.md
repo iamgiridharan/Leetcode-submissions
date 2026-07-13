@@ -185,4 +185,8 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0705-design-hashset) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
