@@ -103,6 +103,7 @@ Solve 300+ problems before graduation.
 | [0013-roman-to-integer](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
 |  |
@@ -195,4 +196,5 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
