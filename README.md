@@ -138,6 +138,7 @@ Solve 300+ problems before graduation.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -200,4 +201,8 @@ Solve 300+ problems before graduation.
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
