@@ -30,6 +30,7 @@ Solve 300+ problems before graduation.
 | [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0705-design-hashset) |
+| [1260-shift-2d-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
@@ -59,6 +60,7 @@ Solve 300+ problems before graduation.
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [3838-weighted-word-mapping](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -167,6 +169,7 @@ Solve 300+ problems before graduation.
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Trie
 |  |
