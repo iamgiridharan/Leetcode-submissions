@@ -105,6 +105,7 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -132,6 +133,7 @@ Solve 300+ problems before graduation.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Binary Search
 |  |
@@ -219,4 +221,8 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0912-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
