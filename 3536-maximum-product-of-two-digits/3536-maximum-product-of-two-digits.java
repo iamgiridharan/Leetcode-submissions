@@ -1,8 +1,8 @@
 class Solution {
     public int maxProduct(int n) {
         if (n==0) return 0;
-        int maxDigit = 0;
-        int globalMax = 0;
+        int maxDigit = 1;
+        int globalMax = 1;
         
         while (n > 0){
             int digit = n%10;
