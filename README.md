@@ -89,6 +89,7 @@ Solve 300+ problems before graduation.
 | [1331-rank-transform-of-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3536-maximum-product-of-two-digits](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Solve 300+ problems before graduation.
 | [0070-climbing-stairs](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
