@@ -30,6 +30,7 @@ Solve 300+ problems before graduation.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0912-sort-an-array) |
@@ -86,6 +87,7 @@ Solve 300+ problems before graduation.
 | ------- |
 | [0049-group-anagrams](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
@@ -111,6 +113,7 @@ Solve 300+ problems before graduation.
 | [0013-roman-to-integer](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
