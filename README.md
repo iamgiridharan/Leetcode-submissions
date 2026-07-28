@@ -29,6 +29,7 @@ Solve 300+ problems before graduation.
 | [0049-group-anagrams](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0705-design-hashset) |
@@ -75,6 +76,7 @@ Solve 300+ problems before graduation.
 | [0013-roman-to-integer](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0706-design-hashmap) |
@@ -88,6 +90,7 @@ Solve 300+ problems before graduation.
 | ------- |
 | [0049-group-anagrams](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -137,6 +140,7 @@ Solve 300+ problems before graduation.
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
@@ -155,6 +159,7 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -184,6 +189,7 @@ Solve 300+ problems before graduation.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -232,6 +238,7 @@ Solve 300+ problems before graduation.
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -241,4 +248,8 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0070-climbing-stairs) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
