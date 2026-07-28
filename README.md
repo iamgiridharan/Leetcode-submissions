@@ -63,6 +63,7 @@ Solve 300+ problems before graduation.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3838-weighted-word-mapping](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -98,6 +99,7 @@ Solve 300+ problems before graduation.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -147,6 +149,7 @@ Solve 300+ problems before graduation.
 | [0912-sort-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
