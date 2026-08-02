@@ -23,6 +23,7 @@ Solve 300+ problems before graduation.
 | ------- |
 | [0001-two-sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0048-rotate-image) |
@@ -92,6 +93,7 @@ Solve 300+ problems before graduation.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
@@ -106,6 +108,7 @@ Solve 300+ problems before graduation.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
