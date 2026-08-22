@@ -22,6 +22,7 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -124,6 +125,7 @@ Solve 300+ problems before graduation.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0027-remove-element) |
@@ -167,6 +169,7 @@ Solve 300+ problems before graduation.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2697-lexicographically-smallest-palindrome) |
