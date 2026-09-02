@@ -59,6 +59,7 @@ Solve 300+ problems before graduation.
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Solve 300+ problems before graduation.
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
