@@ -36,6 +36,7 @@ Solve 300+ problems before graduation.
 | [0347-top-k-frequent-elements](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0877-stone-game](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0877-stone-game) |
@@ -82,6 +83,7 @@ Solve 300+ problems before graduation.
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -142,6 +144,7 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
