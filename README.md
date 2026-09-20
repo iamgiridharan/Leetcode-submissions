@@ -78,6 +78,7 @@ Solve 300+ problems before graduation.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3838-weighted-word-mapping](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
@@ -87,6 +88,7 @@ Solve 300+ problems before graduation.
 | [1260-shift-2d-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
