@@ -44,6 +44,7 @@ Solve 300+ problems before graduation.
 | [1260-shift-2d-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -104,6 +105,7 @@ Solve 300+ problems before graduation.
 | [1189-maximum-number-of-balloons](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -172,6 +174,7 @@ Solve 300+ problems before graduation.
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -203,6 +206,7 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
@@ -227,6 +231,7 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Breadth-First Search
