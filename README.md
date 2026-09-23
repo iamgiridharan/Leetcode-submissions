@@ -146,6 +146,7 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
@@ -265,6 +266,7 @@ Solve 300+ problems before graduation.
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0706-design-hashmap) |
@@ -308,4 +310,8 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0877-stone-game) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
