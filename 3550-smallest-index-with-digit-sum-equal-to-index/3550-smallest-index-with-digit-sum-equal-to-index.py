@@ -5,8 +5,7 @@ class Solution:
             while n > 0:
                 total+= n%10
                 n//=10
-            return total    
-        arr = []    
+            return total      
         for i,val in enumerate(nums):
             if sod(val) == i:
                 return i
