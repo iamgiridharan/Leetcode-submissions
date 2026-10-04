@@ -73,6 +73,7 @@ Solve 300+ problems before graduation.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1189-maximum-number-of-balloons](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
@@ -153,6 +154,7 @@ Solve 300+ problems before graduation.
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -190,6 +192,7 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -208,6 +211,7 @@ Solve 300+ problems before graduation.
 | ------- |
 | [0022-generate-parentheses](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0877-stone-game) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Binary Search
@@ -331,6 +335,7 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
