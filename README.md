@@ -51,6 +51,7 @@ Solve 300+ problems before graduation.
 | [1929-concatenation-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -132,6 +133,7 @@ Solve 300+ problems before graduation.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -220,6 +222,7 @@ Solve 300+ problems before graduation.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
