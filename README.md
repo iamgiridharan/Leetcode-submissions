@@ -45,6 +45,7 @@ Solve 300+ problems before graduation.
 | [0912-sort-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
@@ -134,6 +135,7 @@ Solve 300+ problems before graduation.
 | [0628-maximum-product-of-three-numbers](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -154,6 +156,7 @@ Solve 300+ problems before graduation.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0189-rotate-array) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1163-last-substring-in-lexicographical-order) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Stack
@@ -228,6 +231,7 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
