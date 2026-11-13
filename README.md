@@ -46,6 +46,7 @@ Solve 300+ problems before graduation.
 | [0877-stone-game](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1260-shift-2d-grid) |
+| [1266-minimum-time-visiting-all-points](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1267-count-servers-that-communicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -192,6 +193,7 @@ Solve 300+ problems before graduation.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0877-stone-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -383,4 +385,8 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
