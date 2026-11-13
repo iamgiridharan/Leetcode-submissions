@@ -29,6 +29,7 @@ Solve 300+ problems before graduation.
 | [0027-remove-element](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
@@ -103,6 +104,7 @@ Solve 300+ problems before graduation.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
@@ -301,6 +303,7 @@ Solve 300+ problems before graduation.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
