@@ -53,6 +53,7 @@ Solve 300+ problems before graduation.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
@@ -198,6 +199,7 @@ Solve 300+ problems before graduation.
 | [0877-stone-game](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -214,6 +216,7 @@ Solve 300+ problems before graduation.
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [3364-minimum-positive-sum-subarray](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -248,6 +251,7 @@ Solve 300+ problems before graduation.
 | [0070-climbing-stairs](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Binary Search
 |  |
