@@ -32,6 +32,7 @@ Solve 300+ problems before graduation.
 | [0054-spiral-matrix](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
@@ -294,11 +295,13 @@ Solve 300+ problems before graduation.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -313,6 +316,7 @@ Solve 300+ problems before graduation.
 | ------- |
 | [0048-rotate-image](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -396,6 +400,7 @@ Solve 300+ problems before graduation.
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/iamgiridharan/Leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 ## Geometry
 |  |
